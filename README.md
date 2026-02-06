@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://stackoverflow.com/a/12938787
 
 ## Verbal Collaboration
 
